@@ -1,0 +1,17 @@
+Set 1:
+1. Design a base class called shape . Use this class to store two double type values that 
+could be used to compute the area of figures. Derive two specific classes triangle and 
+rectangle from the base class shape. Add to the base class a member function getdata() to 
+initialize base class members and another member function display area() to gompute and 
+display the area of figures
+2. Create class called shopping list . The shopping list includes details such as the item 
+code number and price of item. Provide operations such as Adding an item to the list 
+Deleting an item from the list Printing the total value .
+
+Set 2:
+1. Write an object oriented program in c++ to list all the palindromes in a given text.
+2. Define a class String to represent the value of the string and its length. Allocate memory 
+dynamically for the string. Overload the following operators as + for concatenation [ ] 
+extract the characters at specified index ( ) length of the string Write a c++ program to test 
+this class.
+
